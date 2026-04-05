@@ -50,6 +50,21 @@ To analyze Amazon sales data and identify key trends, performance metrics, and a
   - Revenue by month
   - Revenue by category
   - Revenue by fulfilment
+    
+## 📊 SQL Analysis
+
+- Revenue by category
+- Monthly sales trend
+- Top performing products
+- Fulfillment performance analysis
+
+## ❓ Business Questions Answered
+
+- Which category generates the highest revenue?
+- What is the monthly sales trend?
+- Which fulfillment method has the most orders?
+- What is the cancellation percentage?
+- Which categories have the highest cancellations?
 
  ## ✅ Conclusion
 
