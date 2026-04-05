@@ -1,15 +1,21 @@
-## 📊 Amazon Sales Analysis Dashboard
-End-to-end data analytics project using SQL & Power BI
+# 📊 Amazon Sales Analysis Dashboard
 
+## 🔍 Overview
+This project analyzes Amazon sales data using SQL and Power BI.
+
+## 🔄 Project Workflow
+1. Data collected in CSV format  
+2. Data cleaned and transformed using SQL  
+3. KPIs calculated (Revenue, Orders, AOV, Cancellation %)  
+4. Dashboard built in Power BI  
+5. Insights generated for business decision making  
 
 ## 📌 Key KPIs
-
-* Total Revenue: 78.59M
-* Total Orders: 120K
-* Total Quantity: 117K
-* AOV: 652.88
-* Cancellation Rate: 14.21%
-
+* Total Revenue: 78.59M  
+* Total Orders: 120K  
+* Total Quantity: 117K  
+* AOV: 652.88  
+* Cancellation Rate: 14.21%  
 
 ## 🛠 Tools Used
 
