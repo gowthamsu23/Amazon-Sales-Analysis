@@ -15,7 +15,15 @@ This project analyzes Amazon sales data using SQL and Power BI.
 * Total Orders: 120K  
 * Total Quantity: 117K  
 * AOV: 652.88  
-* Cancellation Rate: 14.21%  
+* Cancellation Rate: 14.21%
+
+## 📊 Key Insights
+
+- Highest revenue generated in April (~21M)
+- Kurta category contributes maximum sales
+- Amazon fulfillment dominates over merchant fulfillment
+- Cancellation rate is 14.21%, indicating potential operational issues
+- Sales drop significantly after June
 
 ## 🛠 Tools Used
 
@@ -28,9 +36,6 @@ This project analyzes Amazon sales data using SQL and Power BI.
 
 <img width="1120" height="627" alt="image" src="https://github.com/user-attachments/assets/37fe3e1c-323a-46fb-a9f7-b6d50ce5df32" />
 
-
-
----
 
 ## 🗄 SQL Data Preparation
 
