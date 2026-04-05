@@ -4,7 +4,6 @@
 
 This project analyzes Amazon sales data using SQL and Power BI.
 
----
 
 ## 📌 Key KPIs
 
@@ -14,7 +13,6 @@ This project analyzes Amazon sales data using SQL and Power BI.
 * AOV: 652.88
 * Cancellation Rate: 14.21%
 
----
 
 ## 🛠 Tools Used
 
@@ -22,8 +20,8 @@ This project analyzes Amazon sales data using SQL and Power BI.
 * Power BI
 * Excel
 
----
 
 ## 📷 Dashboard Preview
 
-(Will add image soon)
+<img width="1120" height="627" alt="image" src="https://github.com/user-attachments/assets/37fe3e1c-323a-46fb-a9f7-b6d50ce5df32" />
+
