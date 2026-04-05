@@ -3,6 +3,10 @@
 ## 🔍 Overview
 This project analyzes Amazon sales data using SQL and Power BI.
 
+## 🎯 Problem Statement
+
+To analyze Amazon sales data and identify key trends, performance metrics, and areas for business improvement.
+
 ## 🔄 Project Workflow
 1. Data collected in CSV format  
 2. Data cleaned and transformed using SQL  
@@ -27,9 +31,9 @@ This project analyzes Amazon sales data using SQL and Power BI.
 
 ## 🛠 Tools Used
 
-* SQL
-* Power BI
-* Excel
+* SQL (Data Cleaning & Analysis)
+* Power BI (Dashboard & Visualization)
+* Excel (Data Source)
 
 
 ## 📷 Dashboard Preview
@@ -46,4 +50,9 @@ This project analyzes Amazon sales data using SQL and Power BI.
   - Revenue by month
   - Revenue by category
   - Revenue by fulfilment
+
+ ## ✅ Conclusion
+
+This project provides insights into sales performance, customer behavior, and operational efficiency, helping businesses make data-driven decisions.
+
 
