@@ -51,12 +51,16 @@ To analyze Amazon sales data and identify key trends, performance metrics, and a
   - Revenue by category
   - Revenue by fulfilment
     
-## 📊 SQL Analysis
+## 📊 Advanced SQL Analysis
 
-- Revenue by category
-- Monthly sales trend
-- Top performing products
-- Fulfillment performance analysis
+This project includes advanced SQL queries to extract business insights:
+
+- Monthly revenue trend analysis
+- Top-performing categories
+- Cancellation rate by category
+- Fulfillment performance evaluation
+- Running total revenue using window functions
+- Identifying highest revenue day
 
 ## ❓ Business Questions Answered
 
