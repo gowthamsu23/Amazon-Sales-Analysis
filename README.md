@@ -12,7 +12,15 @@ To analyze Amazon sales data and identify key trends, performance metrics, and a
 2. Data cleaned and transformed using SQL  
 3. KPIs calculated (Revenue, Orders, AOV, Cancellation %)  
 4. Dashboard built in Power BI  
-5. Insights generated for business decision making  
+5. Insights generated for business decision making
+
+## 🚀 Project Highlights
+
+- End-to-end data analytics project
+- Data cleaning and transformation using SQL
+- Advanced SQL queries (Window functions, Aggregations)
+- Interactive Power BI dashboard
+- Business insights for decision making
 
 ## 📌 Key KPIs
 * Total Revenue: 78.59M  
