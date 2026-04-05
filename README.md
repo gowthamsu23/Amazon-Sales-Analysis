@@ -1,8 +1,5 @@
-# 📊 Amazon Sales Analysis Dashboard
-
-## 🔍 Overview
-
-This project analyzes Amazon sales data using SQL and Power BI.
+## 📊 Amazon Sales Analysis Dashboard
+End-to-end data analytics project using SQL & Power BI
 
 
 ## 📌 Key KPIs
